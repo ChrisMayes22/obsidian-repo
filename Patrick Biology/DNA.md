@@ -1,0 +1,1 @@
+The genetic information for a cell. It is the molecule where [[mutations]] occur.

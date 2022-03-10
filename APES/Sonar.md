@@ -1,0 +1,1 @@
+Sound Waves are used to locate fish or to target the bottom. This allows ships to locate large schools of fish quickly and to target specific species of fish.

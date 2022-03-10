@@ -1,0 +1,1 @@
+A Lasombra vampire who was invited to the Claymore Party

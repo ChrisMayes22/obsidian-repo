@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "131caca91740dc2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "41fa70d1d101c3cf",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46c536c2de9331a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "902deebc945722c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20c3897fe106ba73",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "75b920ccb260255e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ae7fe3ef0a7e4a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b50ab6dc382a3cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb6cbc4d51b03854",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "41fa70d1d101c3cf",
+  "lastOpenFiles": [
+    "somatic cells.md",
+    "asexual reproduction.md",
+    "gametes.md",
+    "Meiosis.md",
+    "diploid.md",
+    "budding.md",
+    "Mitosis.md",
+    "chromosomes.md",
+    "DNA.md"
+  ]
+}

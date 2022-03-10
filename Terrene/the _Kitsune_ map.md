@@ -1,0 +1,3 @@
+This is one of [[Ariana's drawings]]. It demonstrates Kitsune-bird people around a floor table while outside their home fire rains from the sky. In one corner is a map of [[Terrene]] dotted with flames, perhaps representing the locations of [[gears]] or places affected by [[Corvignan Influence]]. 
+
+[[Koyuki]] originally thought the map may have pinpointed the location of [[Kitsune]], but this is likely false, though the kitsune drawn (unfortunately) probably bear the Corvignan curse (according to [[Mallum]]).

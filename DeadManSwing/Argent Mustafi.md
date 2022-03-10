@@ -1,0 +1,1 @@
+A Nosferatu invited to the Claymore Party. He has something to trade. He wants boons and money.

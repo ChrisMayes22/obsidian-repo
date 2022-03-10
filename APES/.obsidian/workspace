@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "46513588d600c185",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2ae97f9ead42efe",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2658e061b8a6e07",
+    "type": "split",
+    "children": [
+      {
+        "id": "692ac0d15a8ddad3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a20bdf2656915ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6c530edcde5a3ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "biod",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5
+  },
+  "right": {
+    "id": "a252e05507f281eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e75dafc21ad6fda4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5348f44c59525c5c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "f2ae97f9ead42efe",
+  "lastOpenFiles": [
+    "geological factors.md",
+    "Soil.md",
+    "Tilling.md",
+    "Irrigation.md",
+    "flood irrigation.md",
+    "furrow irrigation.md",
+    "drip irrigation.md",
+    "spray irrigation.md",
+    "Overgrazing.md",
+    "Terracing.md"
+  ]
+}

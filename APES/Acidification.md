@@ -1,0 +1,3 @@
+Acidification occurs when soil becomes too acidic. Sometimes this can happen naturally from acidic [[Parent Material]], but it can also come from basic compounds being removed through [[leaching]], from deposits from [[acid rain]], and from [[monocrops]] depleting the soil of bases or depositing acids.
+
+Acids harm crops directly when they are absorbed by plants (toxic) or when they indirectly make toxic metals like Aluminum easier to absorb. Acidification can be fixed by adding [[limestone]] to the affected soil.

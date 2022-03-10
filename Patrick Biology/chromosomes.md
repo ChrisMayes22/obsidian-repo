@@ -1,0 +1,1 @@
+Humans have 48 chromosomes (half of which come from one parent and half the other).  They contain [[DNA]].

@@ -1,0 +1,1 @@
+When the offspring grows off the parent. For example, hydra use this approach.

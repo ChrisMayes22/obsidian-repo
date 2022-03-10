@@ -1,0 +1,1 @@
+Requires [[commas]] only if it is direct dialogue. Can be used with [[colons]] if it is an example, explanation, or definition of an idea in the sentence before the colon (as in normal colons)

@@ -1,0 +1,3 @@
+The Blanchet Family is an influential family in the town of [[Port D'Anguille]] who has been part of the town for 1000+ years. Because of their connection to [[the gears]] through the [[Blanchet Crypt]], it is speculated that they may have some connection or role in [[The Reckoning War]]. They work in the trade of wine but are generally integrated into the expansive commerce fo Por D'Anguille. 
+
+Their crest is a white role and blue shield (see [[Quelani]]). They live in a gated manor and have a host of servants including [[Arnold]] and a grounds keeper. 

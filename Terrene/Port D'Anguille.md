@@ -1,0 +1,3 @@
+A major port town on the western coast of [[Terrene]], Port D'Anguille is characterized by its commercial enterprises. It hosts a large dock and warehouse district. Visitor can sample a wide variety of goods.
+
+It is said [[Ornelia]] has the best ice cream in the city ([[s ice cream date]]). There is said to be a temple to [[Aquafina]] near the docks, which may be the home of the semi-retired [[Farnesworth]]. It includes many brothels ([[s D'Anguille Prostitutes]]). One of the most powerful families in the city is the [[Blanchet]] family. [[Quelani]]'s family once had signficiant contacts in this town.

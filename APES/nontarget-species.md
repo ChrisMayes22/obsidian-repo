@@ -1,0 +1,1 @@
+Species that can't be sold / eaten, OR fish that are of an illegal size, age, not in season, females, etc.

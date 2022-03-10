@@ -1,0 +1,3 @@
+This is the soil horizon between the Organic Layer and the Eluviation Layer. It consists of a mixture of [[geological factors]] and [[organic factors]] and is the most important layer for agriculture. It is especially vulnerable to [[erosion]] and difficult to replace.
+
+The exact contents of topsoil depends on the geography, the amount of [[leaching]] that occurs, the degree of [[soil compaction]], and the amount of [[Humus]] organically produced.

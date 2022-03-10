@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "2d17ae08746c44ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8bd30c19b91b218",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Transitions.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cebec4cc9031b6b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "919c9c44ef8f16b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4458af3167561541",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a226634a422d0dd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "574db07196696955",
+    "type": "split",
+    "children": [
+      {
+        "id": "f29ddd48c9ed6599",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74b738bf82c0b983",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Transitions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "a8bd30c19b91b218",
+  "lastOpenFiles": [
+    "Transitions.md",
+    "Modifiers.md",
+    "Commas.md",
+    "Dependent Clauses.md",
+    "Interrupters.md",
+    "Lists.md",
+    "Conciseness.md",
+    "Colons.md",
+    "Pasted image 20220309124828.png",
+    "Pasted image 20220309124801.png"
+  ]
+}

@@ -1,0 +1,1 @@
+Soil is a mixture of [[geological factors]] and [[organic factors]] that form a medium in which plants and other life can grow. Soil is divided into [[Soil Horizons]] with unique features. It has [[4 phases of soil]], and there are [[4 main human threats to soil]]

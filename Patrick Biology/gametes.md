@@ -1,0 +1,1 @@
+Sex cells such as [[sperm]] and [[eggs]]. They are all [[haploid]]. They are used in [[sexual reproduction]] and produce offspring when combined during [[fertilization]].

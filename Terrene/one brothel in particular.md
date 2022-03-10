@@ -1,0 +1,1 @@
+[[Fancy Dan]] directed [[Reina]] to this brothel, which likely sells the services of men or perhaps mixed company.

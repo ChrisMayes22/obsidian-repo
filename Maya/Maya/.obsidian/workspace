@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "98c2a16c542c726e",
+    "type": "split",
+    "children": [
+      {
+        "id": "03607dd53c950787",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf75c1a90882c3cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e67877ad1291b1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3901aad353dc868a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "512a57627e280ce3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c2d70264284b4265",
+    "type": "split",
+    "children": [
+      {
+        "id": "df1bb3880b48415e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c47fea2837ec3ac3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "03607dd53c950787",
+  "lastOpenFiles": [
+    "Logarithmic Functions.md",
+    "quadratic functions.md",
+    "Profit Maximization.md",
+    "Matrix  Products.md",
+    "Special Right Triangles.md",
+    "Linear Equations.md",
+    "lines with infinite solutions.md",
+    "Lines with no solutions.md",
+    "Rational Exponents.md",
+    "Pasted image 20220306143752.png"
+  ]
+}

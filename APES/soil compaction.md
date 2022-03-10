@@ -1,0 +1,1 @@
+Where [[Soil]] is so compressed that plants and water can no longer easily penetrate topsoil. Destroys the arability of the land.

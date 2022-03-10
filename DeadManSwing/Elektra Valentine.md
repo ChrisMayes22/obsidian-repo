@@ -1,0 +1,1 @@
+A Toreador from the neighboring town. Her sire, [[Rosa]], is "out of town." She wants information and connections.

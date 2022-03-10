@@ -1,0 +1,1 @@
+Diploid cells are produced mitosis (asexual reproduced). It involved two identical daughter cells splitting from a parent cell.
