@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "2d17ae08746c44ed",
+    "id": "04b4263864c0dbdb",
     "type": "split",
     "children": [
       {
-        "id": "a8bd30c19b91b218",
+        "id": "b48a371723100b7e",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -15,15 +15,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "cebec4cc9031b6b3",
+    "id": "5ed628a446ba7fc0",
     "type": "split",
     "children": [
       {
-        "id": "919c9c44ef8f16b6",
+        "id": "980ec8807f4aba5b",
         "type": "tabs",
         "children": [
           {
-            "id": "4458af3167561541",
+            "id": "754f63e6573cce4b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,13 +31,13 @@
             }
           },
           {
-            "id": "5a226634a422d0dd",
+            "id": "6addc07f1954925e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -52,15 +52,15 @@
     "width": 300
   },
   "right": {
-    "id": "574db07196696955",
+    "id": "0fdd11976fbc962a",
     "type": "split",
     "children": [
       {
-        "id": "f29ddd48c9ed6599",
+        "id": "c823046dd4de9f45",
         "type": "tabs",
         "children": [
           {
-            "id": "74b738bf82c0b983",
+            "id": "21b4fb7e20ce713f",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -79,19 +79,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "a8bd30c19b91b218",
+  "active": "b48a371723100b7e",
   "lastOpenFiles": [
-    "Transitions.md",
-    "Modifiers.md",
-    "Commas.md",
-    "Dependent Clauses.md",
-    "Interrupters.md",
-    "Lists.md",
-    "Conciseness.md",
-    "Colons.md",
-    "Pasted image 20220309124828.png",
-    "Pasted image 20220309124801.png"
+    "Core Problems solved by NoSQL DBMS.md",
+    "constraints.md",
+    "Core Problems Solved by RDBMS.md",
+    "views.md",
+    "indexes.md",
+    "indices.md",
+    "tables.md",
+    "schemas.md",
+    "random access.md",
+    "network storage.md"
   ]
 }

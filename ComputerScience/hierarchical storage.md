@@ -1,0 +1,3 @@
+![[Pasted image 20220310105820.png]]
+
+Hierarchical data persistence is similar to [[flat file storage]], except it organizes data into parent-child relationships. This leads to more efficient search algorithms, but it can be difficult to organize certain types of data into trees. For example, we may want two nodes to share a single child, e.g. two clients share a single loan. This tends to lead to duplicate data, with the accompanying problems of consistency and maintainability.

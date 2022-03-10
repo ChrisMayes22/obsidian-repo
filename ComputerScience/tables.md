@@ -1,0 +1,1 @@
+A table on an RDBMS is a matrix organized (in row-first order) as **attribute x entity**. In other words, each row represents a single attribute accross many entities, and each column represents all the attributes of a given entity. 

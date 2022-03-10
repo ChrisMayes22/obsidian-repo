@@ -1,0 +1,1 @@
+A schema is a collection of information about the structure of data on a DB, usually consisting of tables, indices, views, and constraints. Sometimes this is represented as a UML diagram showing M:M, 1:M, 1:1 relationships.
