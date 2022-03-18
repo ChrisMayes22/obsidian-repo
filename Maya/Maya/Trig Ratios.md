@@ -1,0 +1,2 @@
+[[Special Right Triangles]]
+

@@ -1,0 +1,1 @@
+A mutation is when a random change in DNA occurs. This can lead to new [[genetic trait]]s. They can be good or lead to some of the disorders mentioned in [[Environmental Factors vs Genetic Factors]].

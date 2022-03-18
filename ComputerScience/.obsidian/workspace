@@ -4,7 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b48a371723100b7e",
+        "id": "4578880ae86fe52e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "BASE.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "287b8c03418aafd3",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -71,7 +83,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -79,20 +91,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "b48a371723100b7e",
+  "active": "287b8c03418aafd3",
   "lastOpenFiles": [
+    "Eventually Consistent.md",
+    "BASE.md",
+    "Soft State.md",
+    "Availability.md",
+    "Basically Available.md",
     "Core Problems solved by NoSQL DBMS.md",
-    "constraints.md",
-    "Core Problems Solved by RDBMS.md",
-    "views.md",
-    "indexes.md",
-    "indices.md",
+    "ACID.md",
+    "Graph DBMS.md",
     "tables.md",
-    "schemas.md",
-    "random access.md",
-    "network storage.md"
+    "rows.md"
   ]
 }

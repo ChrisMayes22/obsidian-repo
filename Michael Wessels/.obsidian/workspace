@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "50f4b4652b3272b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dfb097ad4d604ff",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Function Arithmetic.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2282375a4b8723e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "03587c56870c9e7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73d2530cc29c04fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a51704ea44221265",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1e1b9313af93f64",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4bc397eb9c48c91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7e68c3ae6f219f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Function Arithmetic.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5dfb097ad4d604ff",
+  "lastOpenFiles": [
+    "Function Arithmetic.md",
+    "Logarithms.md",
+    "Percents.md",
+    "Averages.md"
+  ]
+}

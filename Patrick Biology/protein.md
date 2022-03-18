@@ -1,0 +1,1 @@
+Protein is a biological chemical that makes up parts of cells and your body, especially muscle. It is made of [[amino acids]]

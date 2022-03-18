@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "03607dd53c950787",
+        "id": "c6d3533bafefc142",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -79,20 +79,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "03607dd53c950787",
+  "active": "c6d3533bafefc142",
   "lastOpenFiles": [
-    "Logarithmic Functions.md",
-    "quadratic functions.md",
-    "Profit Maximization.md",
-    "Matrix  Products.md",
-    "Special Right Triangles.md",
-    "Linear Equations.md",
-    "lines with infinite solutions.md",
-    "Lines with no solutions.md",
-    "Rational Exponents.md",
-    "Pasted image 20220306143752.png"
+    "phenotypes.md",
+    "genotype.md",
+    "Different Types of Dominance.md",
+    "spindle fibres.md",
+    "meiosis.md",
+    "homologous chromosomes.md",
+    "crossing over.md",
+    "mitosis.md",
+    "chromosomes.md",
+    "heterozygous.md"
   ]
 }

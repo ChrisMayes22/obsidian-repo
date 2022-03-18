@@ -1,0 +1,1 @@
+A set of standards to which many RDBMS adhere. It stands for [[Atomicity]], [[Consistency]], [[Isolation]], and [[Durability]]. It is often contrasted with the NoSQL standard [[BASE]].

@@ -1,0 +1,1 @@
+Did experiments on peas, which created Punnett Squares, which gave rise to the study of [[genetic trait]]s.

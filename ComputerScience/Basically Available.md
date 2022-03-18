@@ -1,0 +1,3 @@
+Basically Available is part of the BASE set of standards for NoSQL DBs. Since more NoSQL DBMS are implemented across [[distributed databases]] often called clusters, it may be the case that individual DB servers sometimes go down. However, the cluster itself should always be available, meaning that the service is always available to users except in very specific circumstances where an individual query to an individual server that just went down is lost. 
+
+Because of the [[CAP Theorem]], NoSQL DB systems sometimes need to make a tradeoff between [[Consistency]] and [[Availability]] for some circumstances.

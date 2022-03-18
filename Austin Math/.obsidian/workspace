@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "b77c809ac337ea1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "eba7ca6c9bc7fd7a",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51be1381d6f1b23e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac12950c6559f796",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "105d61d7fc76b885",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "40b38ec01f2fbb7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "03748f80d5c88349",
+    "type": "split",
+    "children": [
+      {
+        "id": "0383e36498e13d9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b418cda1d3002ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "eba7ca6c9bc7fd7a",
+  "lastOpenFiles": [
+    "diameter.md",
+    "volume formula for ANY prism.md",
+    "Volume for a cylindar.md"
+  ]
+}

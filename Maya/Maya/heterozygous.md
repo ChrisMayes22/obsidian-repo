@@ -1,0 +1,1 @@
+To be heterozygous for a trait is to have both a dominant and recessive [[allele]] for a trait. In [[dominant traits]], the trait is expressed whereas with [[recessive trait]]s, it is not.

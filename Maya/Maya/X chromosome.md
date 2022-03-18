@@ -1,0 +1,1 @@
+Sex chromosome where females have two and males have one.

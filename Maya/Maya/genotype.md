@@ -1,0 +1,1 @@
+Genotype is a signature of [[alleles]] associated with a genetic trait. It is often contrasted with [[phenotypes]].

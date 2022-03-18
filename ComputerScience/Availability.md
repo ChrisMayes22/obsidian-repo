@@ -1,0 +1,1 @@
+Availability refers to the ability of users to access a resource, service, or other item from a system.

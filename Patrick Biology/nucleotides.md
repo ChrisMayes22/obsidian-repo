@@ -1,0 +1,1 @@
+The individual chemicals that form the "rungs" on the DNA "ladder". They form genetic code.

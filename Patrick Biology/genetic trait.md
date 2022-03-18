@@ -1,0 +1,1 @@
+A trait in an organism that is expressed as a [[phenotype]] and encoded by a [[genotype]]

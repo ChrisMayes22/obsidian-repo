@@ -1,0 +1,1 @@
+A genetic carrier is someone who is [[heterozygous]] for a [[recessive trait]] and therefore do not express the trait but can pass the trait down to offspring

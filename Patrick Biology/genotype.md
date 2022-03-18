@@ -1,0 +1,1 @@
+A genotype is a set of genetic instructions that determine a [[genetic trait]]. These are given in terms of dominant and recessive [[alleles]] such as Pp. It can be [[homozygous]] or [[heterozygous]]

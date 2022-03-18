@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "a6098a037664ff08",
+    "type": "split",
+    "children": [
+      {
+        "id": "08a963c71f61563e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Comma Splice.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4568fafac336684",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c956ab840dc5e93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cefc6761bd13e19",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6b9840692e82c376",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dfd27936069f0b54",
+    "type": "split",
+    "children": [
+      {
+        "id": "d81c66785c297e2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97dea86ee34927cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Comma Splice.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "08a963c71f61563e",
+  "lastOpenFiles": [
+    "Comma Splice.md",
+    "Verb Tense.md",
+    "Subject Verb Agreement.md",
+    "Transitions.md",
+    "Possessives.md",
+    "Inference.md",
+    "Inference -- Detail.md",
+    "Inference - Deletion Based.md",
+    "interrupters.md",
+    "Inference -- Conclusion.md"
+  ]
+}

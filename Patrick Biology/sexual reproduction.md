@@ -1,0 +1,1 @@
+Two parents combine their [[gametes]] so that their offspring inherit some of their [[genetic trait]]s. 

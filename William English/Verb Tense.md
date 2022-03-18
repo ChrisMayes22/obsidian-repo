@@ -1,0 +1,1 @@
+Describes whether a verb is present, future, or past. For [[simple verbs]] is is in the verb itself. For [[Imperfect]] and [[Perfect]] verbs, the [[helping verb]] determines the tense 

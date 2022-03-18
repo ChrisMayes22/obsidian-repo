@@ -1,0 +1,1 @@
+The physical trait or characteristic encoded by the genotype

@@ -1,0 +1,1 @@
+BASE is a set of standards to which many NoSQL DBMS adhere. It stands for [[Basically Available]], [[Soft State]], and [[Eventually Consistent]] and is often contrasted with ACID.
