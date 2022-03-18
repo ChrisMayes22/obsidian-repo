@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "Verb Tense.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }
