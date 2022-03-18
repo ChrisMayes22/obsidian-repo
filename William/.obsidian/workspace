@@ -7,12 +7,8 @@
         "id": "a8bd30c19b91b218",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Verb Tense.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Verb Tense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +83,7 @@
   },
   "active": "a8bd30c19b91b218",
   "lastOpenFiles": [
+    "Addition / Example.md",
     "Verb Tense.md",
     "helping verb.md",
     "Relative Clause.md",
@@ -96,7 +92,6 @@
     "Transitions.md",
     "Modifiers.md",
     "Commas.md",
-    "Interrupters.md",
-    "Conciseness.md"
+    "Interrupters.md"
   ]
 }
