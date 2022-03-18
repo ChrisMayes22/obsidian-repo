@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "0c5fd1b20160dd26",
+    "type": "split",
+    "children": [
+      {
+        "id": "eeee250278fd50f2",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d222acdd5174d56",
+    "type": "split",
+    "children": [
+      {
+        "id": "e07eb62090fe03b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70ab91b1d0fd5ede",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0748704d4e4fefd5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0c4c2aac1b5158e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6731c1884daba0cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2e85e0e0b696b52",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "eeee250278fd50f2",
+  "lastOpenFiles": [
+    "Interrupter.md",
+    "Lists.md",
+    "Conciseness.md",
+    "Comma Splice.md",
+    "Verb Tense.md",
+    "Prompt Detail Inference.md",
+    "Subject-Verb Agreement.md",
+    "Verbs.md",
+    "Deletion Inference.md",
+    "Inference.md"
+  ]
+}
