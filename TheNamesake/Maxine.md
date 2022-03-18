@@ -1,0 +1,1 @@
+Note that New Hampshire is a foreign place to Maxine. cf. 146

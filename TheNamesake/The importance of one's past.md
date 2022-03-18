@@ -1,0 +1,1 @@
+Nikhil resents the importance that his parents place on his past, yet is frequently surprised at the ways it sneaks into his life and conversation. Think of the way he meets Indian colleagues at college, or the way conversation about Calcutta and his background emerges with [[Maxine]] and her family
