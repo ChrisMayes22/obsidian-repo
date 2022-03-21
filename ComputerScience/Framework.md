@@ -1,0 +1,1 @@
+A framework is a set of rules used to enforce [[standardization]]. The purpose is to create a series of [[contracts]] that allow multiple developers working independently to create a [[modular]] product that can plug and play. 

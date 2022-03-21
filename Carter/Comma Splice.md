@@ -1,5 +1,5 @@
 A comma splice is a [[comma rules]] where a comma cannot separate two [[complete sentences]].
-
+[[Interrupter]]
 
 
 ****
@@ -31,4 +31,5 @@ Remember to [[plug in]] your answer for the English
 
 ![[Pasted image 20220315115023.png]]
 
+![[Pasted image 20220320115658.png]]
 

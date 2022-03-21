@@ -14,3 +14,7 @@ EXAMPLE ACT PROBLEMS
 ![[Pasted image 20220315114854.png]]
 
 ![[Pasted image 20220315115222.png]]
+
+![[Pasted image 20220320102746.png]]
+
+![[Pasted image 20220320110331.png]]
