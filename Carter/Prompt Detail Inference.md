@@ -11,3 +11,5 @@ We want to figure out what the question is truly asking in the prompt, focus on 
 
 #17 ![[Pasted image 20220315111811.png]]
 
+![[Pasted image 20220320111123.png]]
+

@@ -7,8 +7,12 @@
         "id": "eeee250278fd50f2",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Comma Splice.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Comma Splice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,15 +88,15 @@
   },
   "active": "eeee250278fd50f2",
   "lastOpenFiles": [
-    "Interrupter.md",
-    "Lists.md",
-    "Conciseness.md",
     "Comma Splice.md",
-    "Verb Tense.md",
-    "Prompt Detail Inference.md",
-    "Subject-Verb Agreement.md",
-    "Verbs.md",
-    "Deletion Inference.md",
-    "Inference.md"
+    "Pasted image 20220314122542.png",
+    "Verbs - Plural vs Singular.md",
+    "Pasted image 20220314121200.png",
+    "Pasted image 20220314120712.png",
+    "Pasted image 20220314120210.png",
+    "Pasted image 20220315101830.png",
+    "Pasted image 20220315101501.png",
+    "Pasted image 20220315100753.png",
+    "Pasted image 20220315100546.png"
   ]
 }

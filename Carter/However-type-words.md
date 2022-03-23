@@ -14,7 +14,7 @@ Step 2: You use a semicolon to avoid a [[comma splice]], and you use a comma to 
 	WITH COMMAS
 		I, however, was able to go.
 		Susan, however, was too sick to fly.
-		Jacob, consequently, was kicked off the baseball
+		Jacob, consequently, was kicked off the baseball team.
 	WITH SEMICOLONS
 		We were losing the game; however, the captain was still motivated.
 	

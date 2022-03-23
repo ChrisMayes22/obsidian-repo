@@ -4,23 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4578880ae86fe52e",
+        "id": "287b8c03418aafd3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BASE.md",
+            "file": "Interfaces.md",
             "mode": "source",
             "source": false
           }
-        }
-      },
-      {
-        "id": "287b8c03418aafd3",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
         }
       }
     ],
@@ -77,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Interfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +88,15 @@
   },
   "active": "287b8c03418aafd3",
   "lastOpenFiles": [
-    "Eventually Consistent.md",
+    "Interfaces.md",
+    "Abstract Class.md",
+    "contracts.md",
+    "Framework.md",
     "BASE.md",
+    "Eventually Consistent.md",
     "Soft State.md",
     "Availability.md",
     "Basically Available.md",
-    "Core Problems solved by NoSQL DBMS.md",
-    "ACID.md",
-    "Graph DBMS.md",
-    "tables.md",
-    "rows.md"
+    "Core Problems solved by NoSQL DBMS.md"
   ]
 }
