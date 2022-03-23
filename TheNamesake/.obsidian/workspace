@@ -7,12 +7,8 @@
         "id": "7400d231bfa3e907",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "The Meaning of Foreignness.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Meaning of Foreignness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +84,7 @@
   },
   "active": "7400d231bfa3e907",
   "lastOpenFiles": [
+    "The Meaning of Names.md",
     "The Meaning of Foreignness.md",
     "Maxine.md",
     "Girls that Nikhita Likes.md",
@@ -96,7 +92,6 @@
     "UK.md",
     "Nationalities.md",
     "Massachussetts.md",
-    "The Meaning of Names.md",
     "Train Wreck in India.md",
     "Trains.md"
   ]

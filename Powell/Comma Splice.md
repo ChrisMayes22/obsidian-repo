@@ -17,3 +17,6 @@ A comma splice is when there is two complete sentences together and can be fixed
 ****
 ![[Pasted image 20220314165959.png]]
 
+
+![[Pasted image 20220321161516.png]]
+

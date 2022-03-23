@@ -4,14 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "08a963c71f61563e",
+        "id": "c1836f1ea8681e92",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Comma Splice.md",
-            "mode": "source",
-            "source": false
+            "file": "Pasted image 20220314165711.png"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comma Splice.md",
+                "file": "Pasted image 20220314165711.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +85,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "08a963c71f61563e",
+  "active": "c1836f1ea8681e92",
   "lastOpenFiles": [
-    "Comma Splice.md",
-    "Verb Tense.md",
-    "Subject Verb Agreement.md",
-    "Transitions.md",
-    "Possessives.md",
-    "Inference.md",
-    "Inference -- Detail.md",
-    "Inference - Deletion Based.md",
-    "interrupters.md",
-    "Inference -- Conclusion.md"
+    "Pasted image 20220314165711.png",
+    "Pasted image 20220314164245.png",
+    "Pasted image 20220314163107.png",
+    "Pasted image 20220321163145.png",
+    "Pasted image 20220321161516.png",
+    "Pasted image 20220314172830.png",
+    "Pasted image 20220314172821.png",
+    "Pasted image 20220314172424.png",
+    "Pasted image 20220314172119.png",
+    "Pasted image 20220314171655.png"
   ]
 }

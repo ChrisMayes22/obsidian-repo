@@ -7,8 +7,12 @@
         "id": "a8bd30c19b91b218",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Purpose.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Purpose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,15 +88,15 @@
   },
   "active": "a8bd30c19b91b218",
   "lastOpenFiles": [
+    "Purpose.md",
+    "Transitions.md",
+    "Prepositions.md",
+    "Appositives.md",
+    "Untitled.md",
     "Addition / Example.md",
     "Verb Tense.md",
     "helping verb.md",
     "Relative Clause.md",
-    "Dependent Clauses.md",
-    "Lists.md",
-    "Transitions.md",
-    "Modifiers.md",
-    "Commas.md",
-    "Interrupters.md"
+    "Dependent Clauses.md"
   ]
 }

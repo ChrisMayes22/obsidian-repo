@@ -1,5 +1,7 @@
 Similar to [[Subject Verb Agreement]]: Both questions, you're looking to see who or what is actually doing the action.
 
+[[who vs whom]]
+
 
 ![[Pasted image 20220314163905.png]]
 

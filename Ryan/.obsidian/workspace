@@ -7,8 +7,12 @@
         "id": "0227dff48bdbaf97",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Comma Splice.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -45,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Comma Splice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "0227dff48bdbaf97",
   "lastOpenFiles": [
-    "Dashes.md",
-    "Quotation Marks.md",
     "Comma Splice.md",
-    "Relative Clauses.md",
-    "Semicolons.md",
-    "Modifiers.md",
-    "contractions.md",
+    "Vagueness.md",
+    "Inference.md",
     "Possessives.md",
-    "Comparisons.md",
-    "Inference.md"
+    "Untitled 1.md",
+    "Modifiers.md",
+    "Lists.md",
+    "Quotation Marks.md",
+    "Untitled.md",
+    "Dashes.md"
   ]
 }
