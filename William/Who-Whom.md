@@ -10,4 +10,3 @@ EXAMPLES
 
 
 25
-![[Pasted image 20220309120229.png]]

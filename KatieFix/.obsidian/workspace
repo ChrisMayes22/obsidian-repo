@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "9a5b5800048a43e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "93ba2d1f68fdb8cb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Math.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3c0b7c5d865f9dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c687755f4d903a21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "197072c4cf30c9e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b08a3c918d1eda8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c7a48c5f87fffc04",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b1857e746e71f4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3777b79ffa6755e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Math.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "93ba2d1f68fdb8cb",
+  "lastOpenFiles": [
+    "Math.md",
+    "Untitled 1.md",
+    "Pasted image 20220630091533.png",
+    "Pasted image 20220630090556.png",
+    "Pasted image 20220630090442.png",
+    "Modifier.md",
+    "Clauses.md",
+    "Comparisons.md",
+    "Interrupters.md",
+    "Untitled.md"
+  ]
+}

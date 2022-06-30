@@ -1,0 +1,1 @@
+Shows [[insecurity]] through being a [[tsundere]]. Demonstrates [[maturity]] when under stress. Is the [[sub]] in [[BDSM]]

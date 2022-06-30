@@ -1,0 +1,3 @@
+The Toreador of Cedar Rapids was ever a wilted flower. Miles from civilization, the Divas found resources for their art scarce, their audiences small. Attempts were made to remedy the situation: A Primogen of days gone by managed to oversee the construction of a sprawling Victorian opera house. But she has since been Beckoned, and even her mark was more gilding than substance.
+
+Enter the [[Digital Fusionists]], a contingent of younger but influential Divas who have found in digital art an outlet for their obsessions. Of course the Internet is always a trap for Kindred, and some more traditional Toreadors smell something of Abstractionist, Anarch influence in the modern tomfoolery. Yet in the absence of powerful handlers to combat them, the sect persists. And grows.

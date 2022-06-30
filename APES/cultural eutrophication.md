@@ -1,0 +1,1 @@
+Plants and algae use [[Phosphate]] and [[Nitrate]] and grow into [[algae blooms]]. Those plants then die, and the bacteria feed on their corpses and produce a lot of CO2 while consuming O2. As a result, you end up with [[Hypoxic]] and [[anoxic]] conditions. This leads to mass death of lentic organisms and eventually ecosystem collapse.

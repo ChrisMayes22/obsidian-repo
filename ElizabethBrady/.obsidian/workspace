@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "72db68212e5e75bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ca55e17cebc4ee0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Math.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3053f64664af0bb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6bf1e087889752a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28f0bbbd05300133",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7458a4231418b9c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5b17caf1b94a4b3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "92a310e92cc81302",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ce0afa155c18dd2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Math.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7ca55e17cebc4ee0",
+  "lastOpenFiles": [
+    "Math.md",
+    "Commas.md",
+    "Dashes.md",
+    "Conciseness.md",
+    "Inference.md",
+    "Pasted image 20220629173518.png",
+    "Pasted image 20220629173606.png"
+  ]
+}

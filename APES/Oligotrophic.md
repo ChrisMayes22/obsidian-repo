@@ -1,0 +1,1 @@
+Nutrient poor, "new" lakes, low [[net primary production]], clear, small populations, deep, steep banks

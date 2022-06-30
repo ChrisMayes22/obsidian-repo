@@ -1,0 +1,3 @@
+Who found whom? Did the [[Serpent]] [[Brujah]] [[Baron]] seek out lieutenants from the Serpent’s clan, or did the clan convert the Brujah elder? And who wields real power at the peak of the Barony—and for what purpose? 
+
+The Ministry would tell you that you have the question wrong. They are the body of the Serpent, and the hand does not “discover” the head. They were working in coordination all along, wittingly or not. As for their purpose…the same as always. The liberation of Kindred kind.

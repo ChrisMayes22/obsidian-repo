@@ -1,0 +1,5 @@
+Civilization was long in coming to Cedar Rapids. Only after millennia of quiet did the mortals come, and Kindred were not far behind. They were not surprised to find Gangrel in the woods, yet what these kindred found was not the usual [[autarkis]]: these gangrel did not merely hunt, but guarded their forested haunts with what struck early survivors of their raids as military coordination. When the [[Sabbat]] invaded, it was as much [[the Pack]] that thwarted their coming as any standard sect. 
+
+So far both [[Anarch]] and [[Camarilla]] sects have avoided much direct conflict with this vast pack in the dark of the woods. But rumors abound of what secret this contingent hides. Some (fancifully one must admit) claim to have seen dark garou among their ranks, while remnants of the Sabbat claim that [[a methuselah]] stalks the trees.
+
+As for the Gangrel of the sects–many of them find their home in [[Ellington]], where mortal indigents make for the easiest, if not the only prey. With rumors of powerful autarkis in the woods and scant oversight from the sects, the opportunities for Gangrel with a taste for vitae are greater than in most domains.

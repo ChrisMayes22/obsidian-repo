@@ -1,0 +1,10 @@
+[[water table]]
+[[recharge]]
+[[discharge]]
+[[zone of aeration]]
+[[zone of saturation]]
+[[aquifer]]
+[[cone of depression]]
+
+![[Pasted image 20220402124953.png]]
+![[Pasted image 20220402125028.png]]

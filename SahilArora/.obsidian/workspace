@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "a5b0c21468aaa88a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bde8b7f984c9b92b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Quadrilaterals.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1543ff260814e7a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "af3b5f533da97777",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ef74a04ce46813a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1dfe310f46a677b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "882ca92ac1ce936e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3312dc1ed14e51c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "682968306852a3c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Quadrilaterals.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bde8b7f984c9b92b",
+  "lastOpenFiles": [
+    "Quadrilaterals.md",
+    "Pasted image 20220608104837.png",
+    "Pasted image 20220608103708.png",
+    "Pasted image 20220608101506.png",
+    "Interrupters.md",
+    "Modifiers.md",
+    "Exponent Rules.md",
+    "Inference.md",
+    "Pasted image 20220608101521.png"
+  ]
+}

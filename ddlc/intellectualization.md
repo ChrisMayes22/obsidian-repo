@@ -1,0 +1,1 @@
+Yuri's intellectualization places distance between her and [[threats]].  It is the direct opposite of her [[insane masochism]] and likely a defense or hedge against it.

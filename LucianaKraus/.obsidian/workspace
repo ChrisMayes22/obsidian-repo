@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "a1bdb79a85cd1514",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c07bb111e127840",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fragment.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "838519d0adb51c7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "757063c4e486b215",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "882d3e4b069cf55e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0067ba5200c51754",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fbb123f4103877a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3b2e548c775fd6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1019680251b02fcd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fragment.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5c07bb111e127840",
+  "lastOpenFiles": [
+    "Fragment.md",
+    "Keep-Delete.md"
+  ]
+}

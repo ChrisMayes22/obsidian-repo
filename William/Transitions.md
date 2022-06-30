@@ -14,3 +14,7 @@ General strategy:
 #52 below
 ![[Pasted image 20220318175631.png]]
 Note: The answer to 53 is B
+
+![[Pasted image 20220415170327.png]]
+
+![[Pasted image 20220603163533.png]]

@@ -1,0 +1,1 @@
+Lasombra - Now a clan of orphans, their road back to this place was hard after the [[Sabat]] was forced to abandon it more than a century ago.  Hopefully it will all be worth it.  They just need to keep their heads down, look like they fit in, be productive members of society, and bide their time.  Whatever’s in that damn [[mountain]] better be worth it.

@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "c685d456ea0e3866",
+    "type": "split",
+    "children": [
+      {
+        "id": "44060a1195a949c9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Trapezoids.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f94cba664009ebb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4759ffd0da77e757",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e58d55f93b6c4d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dcaf4d8c8075b22a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd024826981194a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "19c6e893a61054df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f8f75e5695c753e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Trapezoids.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "44060a1195a949c9",
+  "lastOpenFiles": [
+    "Trapezoids.md",
+    "Unit Analysis.md"
+  ]
+}

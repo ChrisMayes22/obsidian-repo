@@ -16,3 +16,6 @@ EXAMPLE TRAPS:
 ![[Pasted image 20220309121444.png]]
 
 ![[Pasted image 20220309163607.png]]
+
+![[Pasted image 20220527161912.png]]
+![[Pasted image 20220527162001.png]]

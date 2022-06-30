@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "2fd92e643bbe6521",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c84eb35fe71b87f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "BDSM.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "695814a2a440271a",
+    "type": "split",
+    "children": [
+      {
+        "id": "573245def9178509",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "258dbc5fddf710f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1e0616d023d537c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5a9a42f8ec67fd1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "37009e59b3158a6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d64dba947aa3e27a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BDSM.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5c84eb35fe71b87f",
+  "lastOpenFiles": [
+    "BDSM.md",
+    "Yuri.md",
+    "Natsuki.md",
+    "dom.md",
+    "intellectualization.md",
+    "insecurity.md"
+  ]
+}

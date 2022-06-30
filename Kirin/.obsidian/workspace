@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "2fa572f248b956fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3b486444a31377d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Midpoint.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aaa896f85dc649d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "80fbe173624bcb5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e632fd3eee40f476",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "37dc363f9adea3c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fadb8614395bb069",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ee388d907e9b992b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9d3ead08a54cfc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12c8172dc7052884",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Midpoint.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f3b486444a31377d",
+  "lastOpenFiles": [
+    "Midpoint.md",
+    "Untitled.md",
+    "Conjugate Pairs.md",
+    "Number Theory.md",
+    "Pasted image 20220326124037.png",
+    "Pasted image 20220326122829.png",
+    "Pasted image 20220326124019.png",
+    "Pasted image 20220326121644.png",
+    "Pasted image 20220326121339.png",
+    "Algebra.md"
+  ]
+}

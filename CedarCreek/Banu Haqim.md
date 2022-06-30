@@ -1,0 +1,1 @@
+Banu Haqim - New in town and looking to settle into a niche, they find the most comfortable place is somewhere familiar.  Long known as the clan of law keepers, and lawmakers, the most familiar place for them is upholding the rules.  Given time they hope to be the ones making the rules too.

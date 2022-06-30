@@ -1,0 +1,2 @@
+[[Natural Gas]]
+[[Solar]]

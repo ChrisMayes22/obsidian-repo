@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "eea62aa92d61a9a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb2aff81c817e58b",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Pasted image 20220619115135.png"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6639778257d496a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a9248ae738a8203",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "445b2c899b88d58a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "59732aeacec92ed9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4814f78627c4b33e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f98411d288d9a927",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0810076de5f3447c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pasted image 20220619115135.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cb2aff81c817e58b",
+  "lastOpenFiles": [
+    "Pasted image 20220619115135.png",
+    "Pronouns.md",
+    "dashes.md",
+    "Verb Tense.md",
+    "Pasted image 20220612113439.png",
+    "Pasted image 20220612105817.png",
+    "Commas.md",
+    "Pasted image 20220612101932.png",
+    "Pasted image 20220612101903.png",
+    "Pasted image 20220612101401.png"
+  ]
+}

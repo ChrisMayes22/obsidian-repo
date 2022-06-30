@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "7e10d45a15dc6dfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f4167fe7b80d6cd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Commas.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3514271641edd488",
+    "type": "split",
+    "children": [
+      {
+        "id": "004e2bac3f0a295a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86d20891b253a4e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7ca253c97fa1a581",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "64e324f1d5e9723a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f894df7c3cfaa500",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e15258dbaebf959",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Commas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9f4167fe7b80d6cd",
+  "lastOpenFiles": [
+    "Commas.md",
+    "Yes No.md",
+    "Prepositions.md",
+    "Clauses.md",
+    "Conciseness - Ambiguity.md",
+    "Pasted image 20220608110648.png",
+    "Pasted image 20220604102457.png",
+    "Pasted image 20220604101857.png",
+    "Pasted image 20220608110612.png",
+    "Pasted image 20220611100449.png"
+  ]
+}

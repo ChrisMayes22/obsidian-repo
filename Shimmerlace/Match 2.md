@@ -1,0 +1,1 @@
+[[Madeleine]] dominates Shimmerlace in [[kickboxing]], but Shimmer still gets the last laugh.

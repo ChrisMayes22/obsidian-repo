@@ -1,0 +1,5 @@
+[[Temperature]]
+[[Light]]
+[[Clarity]]
+[[O2]]
+[[NaCl]]

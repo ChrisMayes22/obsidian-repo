@@ -9,7 +9,9 @@
 [[Subject-Verb Agreement]]
 [[Verb Tense]]
 
-
 ![[Pasted image 20220313172900.png]]
 
-#46 Isn't really testing interrupters. In the future for questions like this i should look for interupters and eliminate if there is an interupter to make a complete sentence.
+![[Pasted image 20220327161103.png]]
+
+
+
